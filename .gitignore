@@ -1,0 +1,21 @@
+__Previews
+**/__Previews/
+
+History/*
+**/History/*
+
+.PrjPCBStructure
+.SchDocPreview
+.PcbDocPreview
+
+**/*.PrjPCBStructure
+**/*.PcbDocPreview
+**/*.SchDocPreview
+
+# https://www.allspice.io/post/git-for-altium
+Project\ Outputs*/
+Project\ Logs*/
+Assembly\ Exports/
+*.rawProject\ Outputs*/
+# Altium metadata file
+*.PcbDoc.htm
