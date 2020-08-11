@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for altium-psu
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VHKNAJKW
 
 [Document5]
-DocumentPath=libraries\branding.PcbLib
+DocumentPath=OutputJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -120,10 +120,166 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JMWJBKGV
+DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=https://d.docs.live.net/9e5e1f3c48eb616a/Documents/GitHub/altium-psu/Project Outputs for altium-psu/BOM/Bill of Materials-altium-psu.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for altium-psu\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for altium-psu\NC Drill\PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for altium-psu\Gerber\PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for altium-psu\Gerber\PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for altium-psu\Gerber\PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for altium-psu\Gerber\PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for altium-psu\Gerber\PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for altium-psu\Gerber\PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for altium-psu\Gerber\PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for altium-psu\Gerber\PCB.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for altium-psu\Gerber\PCB.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for altium-psu\Gerber\PCB.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for altium-psu\Gerber\PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for altium-psu\Gerber\PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for altium-psu\Gerber\PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for altium-psu\Gerber\PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for altium-psu\NC Drill\PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for altium-psu\Gerber\PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for altium-psu\Gerber\PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Free Documents\Gerber\PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for altium-psu\NC Drill\PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCB.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -135,6 +291,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for altium-psu
 
 [OutputGroup1]
 Name=Netlist Outputs
